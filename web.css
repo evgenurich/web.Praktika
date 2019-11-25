@@ -24,21 +24,17 @@ p {
   box-sizing: border-box;
 }
 
-#oshibka {
-   bacground-color:#08C670;
-}
 /*HEADER*//*HEADER*//*HEADER*//*HEADER*/
 
 
-.header {
-    /*height: 116px;*/
-}
 
 .header__logo {
 	font-size: 20px;
 	font-weight: 700;
 	margin: 50px 0 50px 100px;
 	font-size: 25px;
+	
+	cursor:pointer;
 }
 .header__inner {
 	display: flex;
